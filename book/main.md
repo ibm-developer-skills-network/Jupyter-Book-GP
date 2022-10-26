@@ -1,4 +1,4 @@
-# Analysis of College Ranking data
+# Introduction to Analysis of College Ranking data
 
 In this report, I provide some simple analysis on college ranking data.
 
